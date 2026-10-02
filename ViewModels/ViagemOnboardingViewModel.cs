@@ -61,8 +61,7 @@ namespace ViagemOnboarding.ViewModels
         [RelayCommand]
         private async Task ComecarAsync()
         {
-            // Lógica para navegar para a página principal da aplicação
-            // Exemplo: await Shell.Current.GoToAsync("//MainPage");
+           
         }
     }
 }
